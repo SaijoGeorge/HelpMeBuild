@@ -7,7 +7,7 @@ You can use the header navigation to filter the list of tools avilable the site.
 
 I could not have done with project without the awesome folks at CodyHouse and Codrops who introced me to all these awesome resources like [CSS Content Filter](http://codyhouse.co/gem/content-filter/), [CSS Animated Headlines](http://codyhouse.co/gem/css-animated-headlines/), [Animated Background Headers](http://tympanus.net/codrops/2014/09/23/animated-background-headers/)
 
-My name is Saijo George, I work as an [SEO Consultant in Melbourne, Australia](http://saijogeorge.com/) for [Envato](http://www.envato.com/) on sites like [ThemeForest](http://themeforest.net), [VideoHive](http://videohive.net), etc
+My name is **Saijo George**. I work as an [SEO Consultant in Melbourne, Australia](http://saijogeorge.com/) for [Envato](http://www.envato.com/), on sites like [ThemeForest](http://themeforest.net), [VideoHive](http://videohive.net), etc
 
 You might also like my other side projects :
 - [Curated collection of Brand Style Guides](http://saijogeorge.com/brand-style-guide-examples/)
