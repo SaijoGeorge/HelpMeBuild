@@ -1,5 +1,5 @@
 # HelpMeBuild
-[HelpMeBuild.io](helpmebuild.io) is a small sideproject that aims to collect all the awesome builder that will help people to make websites, logos, apps, mockups and everything else. Most of these tools offer an inuitive interface that you can use to build your project. 
+[HelpMeBuild.io](http://helpmebuild.io) is a small sideproject that aims to collect all the awesome builder that will help people to make websites, logos, apps, mockups and everything else. Most of these tools offer an inuitive interface that you can use to build your project. 
 
 
 
