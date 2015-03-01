@@ -28,7 +28,7 @@
 
 .demo-2 .main-title {
 	font-weight: normal;
-	font-size: 4em;
+	font-size: 2.5em;
 	padding-left: 10px;
 	text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
 	text-align: center;
@@ -36,12 +36,12 @@
 
 @media only screen and (max-width : 768px) {
 	.demo-2 .main-title {
-		font-size: 2em;
+		font-size: 1.5em;
 	}
 }
 
 @media only screen and (max-width : 400px) {
 	.demo-2 .main-title {
-	color: #e85470;
+	font-size: 0.8em;
 	}
 }
