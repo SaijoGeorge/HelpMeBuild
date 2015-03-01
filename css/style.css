@@ -781,3 +781,8 @@ p a span:after {
   -moz-transform: translate3d(0px, 105%, 0px) rotateX(-90deg);
   -ms-transform: translate3d(0px, 105%, 0px) rotateX(-90deg);
   transform: translate3d(0px, 105%, 0px) rotateX(-90deg); }
+
+/* adfix */
+.iframefix {
+vertical-align:top;	
+}
