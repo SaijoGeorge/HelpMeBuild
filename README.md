@@ -13,5 +13,6 @@ You might also like my other side projects :
 - [Curated collection of Brand Style Guides](http://saijogeorge.com/brand-style-guide-examples/)
 - [FREE Photos / Videos / Sounds & Icons - AllTheFreeStock](http://allthefreestock.com)
 - [List of the Best SEO / Marketing Tools](http://saijogeorge.com/best-marketing-tools/)
+- [Collection of CSS Puns](http://saijogeorge.com/css-puns/)
 
 Want to get in touch? Look me up on [Twitter](https://twitter.com/Saijo_George) or [LinkedIn](https://au.linkedin.com/in/saijogeorge)
