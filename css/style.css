@@ -35,6 +35,26 @@ a {
 Main Components 
 
 -------------------------------- */
+.cd-header {
+  position: relative;
+  height: 150px;
+  background-color: #331d35;
+}
+.cd-header h1 {
+  color: #ffffff;
+  line-height: 150px;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 300;
+}
+@media only screen and (min-width: 1170px) {
+  .cd-header {
+    height: 200px;
+  }
+  .cd-header h1 {
+    line-height: 200px;
+  }
+}
 
 .cd-main-content {
   position: relative;
