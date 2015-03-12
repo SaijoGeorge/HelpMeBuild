@@ -8,6 +8,7 @@
 
 	<link rel="stylesheet" href="css/reset.css">
 	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/intro.css" />
 	<link rel="stylesheet" href="css/animatedheadline.css">
 	<link rel="stylesheet" type="text/css" href="css/contentanimation.css" />
 	<script src="js/modernizr.js"></script>
@@ -46,24 +47,29 @@
 </script>	
 </head>
 <body>
-    <header class="cd-header">
-		<section class="cd-intro">
-			<h1 class="cd-headline main-title rotate-1">
-				<span>Help Me Build</span>
-				<span class="cd-words-wrapper">
-					<b class="is-visible">. IO</b>
-					<b>Websites</b>
-					<b>Apps</b>
-					<b>Logos</b>
-					<b>Images</b>
-					<b>Emails</b>
-					<b>Videos</b>
-					<b>...</b>
-					<b>Anything</b>
-				</span>
-			</h1>
-		</section>
-	</header>
+	<div class="container demo-2">
+		<div class="content">
+            <div id="large-header" class="large-header">
+                <canvas id="demo-canvas"></canvas>
+                <header class="cd-header">
+					<section class="cd-intro">
+						<h1 class="cd-headline main-title rotate-1">
+							<span>Help Me Build</span>
+							<span class="cd-words-wrapper">
+								<b class="is-visible">. IO</b>
+								<b>Websites</b>
+								<b>Apps</b>
+								<b>Logos</b>
+								<b>Images</b>
+								<b>Emails</b>
+								<b>Videos</b>
+								<b>...</b>
+								<b>Anything</b>
+							</span>
+						</h1>
+					</section>
+				</header>
+            </div>
 
 	<main class="cd-main-content">
 		<div class="cd-tab-filter-wrapper">
@@ -804,8 +810,12 @@
 
 		<a href="#filters" class="cd-filter-trigger">Filters</a>
 	</main> <!-- cd-main-content -->
+		</div>
+	</div>	
 <script src="js/jquery-2.1.1.js"></script>
 <script src="js/jquery.mixitup.min.js"></script>
+<script src="js/rAF.js"></script>
+<script src="js/intro.js"></script>
 <script src="js/toucheffects.js"></script>
 <script src="js/main.js"></script> <!-- Resource jQuery -->
 <script src="js/animatedheadline.js"></script>
