@@ -225,7 +225,7 @@ xtab-filter
     background: transparent;
     color: #1cd1af;
     /* create border bottom using box-shadow property */
-    box-shadow: inset 0 -2px 0 #1cd1af;
+    box-shadow: inset 0 -4px 0 #1cd1af;
   }
   .cd-tab-filter.is-open ul li {
     display: inline-block;
