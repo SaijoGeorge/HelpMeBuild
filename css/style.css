@@ -37,7 +37,7 @@ Main Components
 -------------------------------- */
 .cd-header {
   position: relative;
-  height: 150px;
+  height: 120px;
   background-color: #1cd1af;
 }
 .cd-header h1 {
@@ -49,7 +49,7 @@ Main Components
 }
 @media only screen and (min-width: 1170px) {
   .cd-header {
-    height: 200px;
+    height: 120px;
   }
   .cd-header h1 {
     line-height: 200px;
@@ -805,4 +805,12 @@ p a span:after {
 /* adfix */
 .iframefix {
 vertical-align:top;	
+}
+
+/* site description */
+.intro-text {
+background-color: #1cd1af;
+text-align: center;
+color: #ffffff;
+padding-bottom: 25px;
 }
