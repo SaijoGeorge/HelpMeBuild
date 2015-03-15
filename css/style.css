@@ -42,7 +42,7 @@ Main Components
 }
 .cd-header h1 {
   color: #ffffff;
-  line-height: 150px;
+  line-height: 120px;
   text-align: center;
   font-size: 2.4rem;
   font-weight: 300;
@@ -52,7 +52,7 @@ Main Components
     height: 120px;
   }
   .cd-header h1 {
-    line-height: 200px;
+    line-height: 120px;
   }
 }
 
@@ -812,6 +812,5 @@ vertical-align:top;
 background-color: #1cd1af;
 text-align: center;
 color: #ffffff;
-padding-top: 25px;
 padding-bottom: 25px;
 }
